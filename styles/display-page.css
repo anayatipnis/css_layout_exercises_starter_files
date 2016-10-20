@@ -1,0 +1,46 @@
+main {
+	font-size: 0;
+}
+
+.all {
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.top {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.b1 {
+	background-color: green;
+
+}
+
+.b2 {
+	background-color: blue;
+}
+
+.bottom {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.b3 {
+	background-color: gray;
+}
+
+.b4 {
+	background-color: black;
+}
+
+.b5 {
+	background-color: orange;
+}
